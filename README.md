@@ -1,48 +1,29 @@
 # 👋 Hi there, I'm M. Azib Naeem
 
-🎓 Data Science Undergraduate | 🤖 ML & Computer Vision Enthusiast | 📱 Flutter Developer  
-📍 Lahore, Pakistan | 💼 Open to Collaborations | 🔍 Growth Mindset
+# 💫 About Me:
+🎓 Data Science Undergraduate | 🤖 ML & Computer Vision Enthusiast | 📱 Flutter Developer<br>📍 Lahore, Pakistan | 💼 Open to Collaborations | 🔍 Growth Mindset
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AzibNaeem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AzibNaeem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azibnaeem17official@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AzibNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AzibNaeem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AzibNaeem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AzibNaeem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AzibNaeem&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AzibNaeem&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Core Technical Skills
-- **Languages & Tools**: Python, C++, C, SQL, HTML, CSS, Dart, Flutter  
-- **Frameworks & Libraries**: YOLO, OpenCV, Pandas, Scikit-Learn, Matplotlib, Power BI  
-- **Concepts**: Machine Learning, Deep Learning, Object Detection, Neural Networks, OOP, DSA  
-- **Extras**: Web Scraping, Data Visualization, Image Processing, Video Editing
-
----
-
-## 🚀 Projects I'm Proud Of
-- 🔮 **[Wine Quality Prediction](https://github.com/AzibNaeem)** – Achieved 93% accuracy using feature engineering & ML models  
-- 📚 **[Library Management System in C++](https://github.com/AzibNaeem)** – OOP-based system with full issue/return/search functionality  
-- 🚗 **[YOLO-Based Object Detection](https://github.com/AzibNaeem)** – Fine-tuned deep learning model for vehicle recognition  
-- 🧹 **[FAST Portal Web Scraper](https://github.com/AzibNaeem)** – Python scraper using BeautifulSoup & Pandas  
-- 🖼️ **[Image Processing in C++](https://github.com/AzibNaeem)** – Efficient grayscale, filtering, and edge detection logic
-
----
-
-## 💼 Internship Experience
-**Machine Learning Engineer Intern – Expert Systems Solutions (ESS)**  
-*Mar 2024 – Jul 2024*  
-- Developed YOLO-based object detection systems  
-- Improved inference speed and model accuracy via tuning & augmentation
-
----
-
-## 📱 Currently Exploring
-- Cross-platform mobile app development using **Flutter + Dart**  
-- Advanced ML pipelines, deployment, and model optimization  
-- Data-driven solutions that blend AI with real-world impact
-
----
-
-## 📫 Let’s Connect!
-- 🌐 [GitHub](https://github.com/AzibNaeem)  
-- 📧 azibnaeem17official@gmail.com  
-- 📍 Lahore, Pakistan  
-
----
-
-> *“Stay curious, stay consistent — great things take iteration.”*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
